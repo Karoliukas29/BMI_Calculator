@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="standard">Standard</string>
+    <string name="metric">Metric</string>
+    <string name="imperial_units">Switch to cm</string>
+    <string name="metric_units">Switch to lb</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="calculate">Calculate BMI</string>
+    <string name="cm">cm</string>
+</resources>
